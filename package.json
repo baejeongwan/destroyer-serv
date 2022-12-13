@@ -1,0 +1,23 @@
+{
+  "name": "destroyer-serv",
+  "version": "1.0.0",
+  "description": "Destroyer Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baejeongwan/destroyer-serv.git"
+  },
+  "author": "Baejeongwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baejeongwan/destroyer-serv/issues"
+  },
+  "homepage": "https://github.com/baejeongwan/destroyer-serv#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

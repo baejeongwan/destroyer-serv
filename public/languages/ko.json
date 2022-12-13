@@ -1,0 +1,23 @@
+{
+    "language": "ko",
+    "resource": {
+        "webpageTitle": "파괴자 모둠 - 공식 홈페이지",
+        "headerTitle": "파괴자 모둠",
+        "headerAbout": "소개",
+        "headerOurHistory": "기록 보기",
+        "headerViewExam": "면접 보기",
+        "headerSoftware": "소프트웨어",
+        "headerSomethingInteresting": "뭔가 재밌는거",
+        "contentTheDestroyers": "파괴자 모둠",
+        "contentTextBeforeDayCount": "파괴자 모둠 설립후 ",
+        "contentTextAfterDayCount": "일 지남",
+        "contentDayOfTheDestroyers": "오늘은 파괴자의 날!",
+        "contentRecordOfTheDestroyers": "파괴자 모둠의 기록",
+        "contentShowRecordInList": "목록 보기",
+        "contentViewBtn": "보기 >>",
+        "contentBecomeAMember": "파괴자 모둠에 일원이 되기",
+        "contentResultFileTo": "결과파일은 <a href='mailto:jayden.bae@outlook.kr'>여기로</a> 보내주세요",
+        "contentParticipantBtn": "(참가자) 면접 보기 >>",
+        "contentAdminBtn": "(면접관) 면접 결과 읽기 >>"
+    }
+}

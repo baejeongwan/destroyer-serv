@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&display=swap');
+
+* {
+    font-family: 'Cute Font', cursive;
+    /*animation-duration: 10s;
+    animation-name: fallui;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;*/
+}
+
+@font-face {
+    font-family: DOSGothic;
+    src: url('/fonts/DOSGothic.ttf');
+}
+
+@keyframes fallui {
+    from {
+        position: relative;
+        top: 0px;
+    }
+
+    25% {
+        top: 100px;
+        transform: rotate(20deg);
+    }
+
+    50% {
+        top: 200px;
+        transform: rotate(-20deg);
+    }
+
+    75% {
+        top: 300px;
+        transform: rotate(20deg);
+    }
+
+    to {
+        bottom: 0;
+        transform: rotate(0deg);
+    }
+}
+
+.carousel-image-cus {
+    max-width: 100%;
+    max-height: 50vh;
+    object-fit: contain;
+}
+
+.carousel-indicators>button {
+    background-color: #fff!important;
+} 
+
+td { 
+    font-family: DOSGothic, Gothic;
+}
+
+.blowimage {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.blowimage > img {
+    width: 100vw;
+    height: 100vh;
+}

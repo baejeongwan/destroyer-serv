@@ -1,0 +1,23 @@
+{
+    "language": "en",
+    "resource": {
+        "webpageTitle": "The Destroyers - Official Website",
+        "headerTitle": "The Destroyers",
+        "headerAbout": "About Us",
+        "headerOurHistory": "Our History",
+        "headerViewExam": "View Exam",
+        "headerSoftware": "Software",
+        "headerSomethingInteresting": "Something Interesting",
+        "contentTheDestroyers": "The Destroyers",
+        "contentTextBeforeDayCount": "",
+        "contentTextAfterDayCount": " days after launching",
+        "contentDayOfTheDestroyers": "Today is destroyers' day!",
+        "contentRecordOfTheDestroyers": "History of The Destroyers",
+        "contentShowRecordInList": "View in list",
+        "contentViewBtn": "View >>",
+        "contentBecomeAMember": "Become a member of the destroyers",
+        "contentResultFileTo": "Send result file to <a href='mailto:jayden.bae@outlook.kr'>here</a>",
+        "contentParticipantBtn": "(Participant) View Exam >>",
+        "contentAdminBtn": "(Administrator) View Exam Result >>"
+    }
+}
